@@ -1,5 +1,4 @@
 # rotas_react
-atv de internet - react
 Terminal:
 - npm create vite@latest nomePasta -- --template react
 - cd nomePasta
